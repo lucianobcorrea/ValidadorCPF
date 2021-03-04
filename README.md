@@ -25,8 +25,8 @@ A partir desta verificação pode-se concluir que o CPF 529.982.247-25 é válid
 
 ## Exemplo de saída no console para CPF válido
 <p float="left">
-  <img src="CPF válido com caracteres.png" width="100" />
-  <img src="CPF válido.png" width="100" /> 
+  <img src="CPF válido com caracteres.png" width="300" />
+  <img src="CPF válido.png" width="300" /> 
 </p>
 
 ## Exemplo de saída no console para CPF inválido
