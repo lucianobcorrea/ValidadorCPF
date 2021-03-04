@@ -24,12 +24,21 @@ Verifica-se o resto novamente. Exemplo: 315 e resto = 5. Correto!
 A partir desta verificação pode-se concluir que o CPF 529.982.247-25 é válido!
 
 ## Exemplo de saída no console para CPF válido
-<img align="left" src="CPF válido com caracteres.png"/>
-<img align="left" src="CPF válido.png"/>
+<h1 align="left">
+    <img src="CPF válido com caracteres.png"/>
+</h1>
+<h1 align="right">
+    <img src="CPF válido.png"/>
+</h1>
 
 ## Exemplo de saída no console para CPF inválido
-<img align="CPF inválido com caracteres.png"/>
-<img align="left" src="CPF inválido.png"/>
+<h1 align="left">
+    <img src="CPF inválido com caracteres.png"/>
+</h1>
+<h1 align="right">
+    <img src="CPF inválido.png"/>
+</h1>
+
 
 
 
