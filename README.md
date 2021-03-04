@@ -30,11 +30,11 @@ A partir desta verificação pode-se concluir que o CPF 529.982.247-25 é válid
 </p>
 
 ## Exemplo de saída no console para CPF inválido
-<h1 align="left">
-    <img src="CPF inválido com caracteres.png"/>
-<h1 align="right">
-    <img src="CPF inválido.png"/>
-</h1>
+<p float="left">
+  <img src="CPF inválido com caracteres.png" width="300" />
+  <img src="CPF inválido.png" width="300" /> 
+</p>
+
 
 
 
